@@ -10,7 +10,7 @@ Rock Paper Scissor is a simple Rock Paper Scissor game made using tkinter librar
 
 ## How to Download
 
-Download this project from here [Download Rock Paper Scissor](https://downgit.github.io/#/home?url=https://github.com/mouneshgouda/Pygame/tree/master/Rock%20Paper%20Scissor)
+Download this project from here [Download Rock Paper Scissor](https://downgit.github.io/#/home?url=https://github.com/Mouneshgouda/Pygame/tree/main/Rock%20Paper%20Scissor)
 
 ## Requirements
 
